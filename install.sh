@@ -708,7 +708,7 @@ show_expired_message_and_exit
 fi
 clear
 figlet "UDP ZIVPN" | lolcat
-echo -e "${YELLOW}┌───────────// ${CYAN}PT RAJA SERVER PREMIUM${YELLOW} //─────────────┐${NC}"
+echo -e "${YELLOW}┌───────────// ${CYAN}ALVI${YELLOW} //─────────────┐${NC}"
 _draw_info_panel
 _draw_service_status
 echo -e "${YELLOW}│                                                    │${NC}"
